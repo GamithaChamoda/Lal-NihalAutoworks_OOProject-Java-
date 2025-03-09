@@ -4,8 +4,8 @@ This **Java-based GUI application** is designed to manage the operations of **La
 
 - ✅ Vehicle service records  
 - ✅ Repairs  
-- ✅ Tinkering & painting  
-- ✅ Counter sales of re-conditioned engines  
+- ✅ Employee management   
+- ✅ Customer management    
 
 With an easy-to-use interface, the system **simplifies workshop management, improves efficiency, and enhances customer tracking**.  
 
